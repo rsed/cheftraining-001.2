@@ -37,7 +37,5 @@ end
 
 package "tree"
 
-log "The installation is complete"
-
 rightscale_marker :end
 
