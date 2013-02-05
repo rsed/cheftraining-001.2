@@ -9,7 +9,7 @@
 
 rightscale_marker :begin
 
-log "installing Splunk"
+log "Installing Splunk"
 
 user "#{node[:splunk][:user]}"  do
  action :create
